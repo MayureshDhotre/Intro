@@ -132,7 +132,8 @@ hr {
   padding: 5px;
   text-decoration: none;
 }
-.footer-link:hover{
+
+.footer-link:hover {
   color: #EAf6f6;
 }
 
@@ -179,5 +180,17 @@ hr {
   -moz-border-radius: 20px;
   border-radius: 20px;
   text-decoration: none;
+}
+
+.below-getintouch {
+  margin: 0 auto;
+  width: 60%;
+}
+
+.contact-me {
+
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
 
 }
